@@ -1,2 +1,0 @@
-# LHTML
-print("hellow mathematics")
